@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--命名：布局名—模块—功能-->
+    <!--控件 缩写-->
+
+    <!--welcomeActivity-->
+    <dimen name="atyWelcome_img_marginBottom">200dp</dimen>
+    <dimen name="atyWelcome_img_marginTop">20dp</dimen>
+</resources>
